@@ -1,0 +1,1 @@
+export { default as RegisterOwner } from './components/RegisterOwner';
